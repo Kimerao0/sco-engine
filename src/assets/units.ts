@@ -1,7 +1,7 @@
 export const units: Sco.Model.UnitAsset[] = [
   {
     id: 'unit_spear',
-    description: '',
+    description: 'Basic Light Unit',
     name: 'Spear',
     shootingSpeed: 400,
     accuracy: 55,
@@ -26,7 +26,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_explorer',
-    description: '',
+    description: 'Explorer unit, can evaluate units composition of an area',
     name: 'Explorer',
     shootingSpeed: 300,
     accuracy: 30,
@@ -51,7 +51,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_crusader',
-    description: '',
+    description: 'Light anti-armor unit',
     name: 'Crusader',
     shootingSpeed: 500,
     accuracy: 70,
@@ -76,7 +76,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_hawk',
-    description: '',
+    description: 'Rapid light unit ',
     name: 'Hawk',
     shootingSpeed: 600,
     accuracy: 60,
@@ -101,7 +101,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_vessel',
-    description: '',
+    description: 'Basic medium unit',
     name: 'Vessel',
     shootingSpeed: 500,
     accuracy: 70,
@@ -126,7 +126,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_storm',
-    description: '',
+    description: 'Medium unit, good versus light units',
     name: 'Storm',
     shootingSpeed: 500,
     accuracy: 90,
@@ -151,7 +151,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_massive',
-    description: '',
+    description: 'Medium anti-armor unit',
     name: 'Massive',
     shootingSpeed: 500,
     accuracy: 70,
@@ -176,7 +176,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_admiral',
-    description: '',
+    description: 'Basic heavy unit',
     name: 'Admiral',
     shootingSpeed: 400,
     accuracy: 75,
@@ -201,7 +201,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_tornado',
-    description: '',
+    description: 'Heavy unit, very good versus smaller units',
     name: 'Tornado',
     shootingSpeed: 400,
     accuracy: 95,
@@ -226,7 +226,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_immortal',
-    description: '',
+    description: 'Heavy anti-armor unit',
     name: 'Immortal',
     shootingSpeed: 400,
     accuracy: 80,
@@ -251,7 +251,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_mothership',
-    description: '',
+    description: 'Huge unit, very good versus smaller units',
     name: 'MotherShip',
     shootingSpeed: 400,
     accuracy: 100,
@@ -276,7 +276,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_tank',
-    description: '',
+    description: 'Priority targets defender',
     name: 'Tank',
     shootingSpeed: 300,
     accuracy: 50,
@@ -301,7 +301,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_spy',
-    description: '',
+    description: 'Able to spy other players',
     name: 'Spy',
     shootingSpeed: 300,
     accuracy: 70,
@@ -326,7 +326,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_mercenary',
-    description: '',
+    description: 'Hired war specialist',
     name: 'Mercenary',
     shootingSpeed: 500,
     accuracy: 75,
@@ -351,7 +351,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_warp',
-    description: '',
+    description: 'Able to warp other units',
     name: 'Warp',
     shootingSpeed: 300,
     accuracy: 60,
@@ -376,7 +376,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_b6',
-    description: '',
+    description: 'Light defensive cannon',
     name: 'B6',
     shootingSpeed: 600,
     accuracy: 90,
@@ -401,7 +401,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_b12',
-    description: '',
+    description: 'Medium defensive cannon',
     name: 'B12',
     shootingSpeed: 600,
     accuracy: 95,
@@ -426,7 +426,7 @@ export const units: Sco.Model.UnitAsset[] = [
   },
   {
     id: 'unit_b18',
-    description: '',
+    description: 'Medium anti-armor defensive cannon',
     name: 'B18',
     shootingSpeed: 600,
     accuracy: 100,
